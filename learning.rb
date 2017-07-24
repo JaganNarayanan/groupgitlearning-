@@ -1,7 +1,7 @@
 puts "Darth Vader: I'm your father.."
 puts "Luke: noooooooo.........."
 
-
+the steps
 $git checkout master
 $git pull origin master (making sure the master is updated with the origin master)
 
